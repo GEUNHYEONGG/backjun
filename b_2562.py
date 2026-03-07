@@ -6,4 +6,4 @@ for i in range(9):
 n_max = max(num)
 n_list = num.index(n_max)
 print(n_max)
-print(n_list + 1)
+print(n_list + 1) 
